@@ -1,2 +1,2 @@
 # spring5-jokes-app
-Spring5 Jokes App
+A Spring Web app that displays a random chuck norris Joke on the index
